@@ -4,6 +4,10 @@
 
 ### **DOI de Zenodo**
 
+![image](https://user-images.githubusercontent.com/129303821/233619562-e7025fcc-6755-4317-915a-b0db57f06161.png)
+
+[Enlace al dataset en Zenodo](https://zenodo.org/record/7852246#.ZEJrBHZBy3A)
+
 ### **Contexto**
 
 Para esta práctica se ha recolectado la información de la web de la liga femenina de baloncesto https://www.lfendesa.es/Inicio.aspx. La Liga Femenina Endesa es la máxima competición de baloncesto femenino en España, organizada por la Federación Española de Baloncesto (FEB) y patrocinada por Endesa.
